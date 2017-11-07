@@ -1,3 +1,3 @@
 # MasterClass
 
-* some of the problems from Java Master Class from www.udemy.com
+* some of the problems from JComplete Java (MasterClass](https://www.udemy.com/java-the-complete-java-developer-course/) from www.udemy.com
